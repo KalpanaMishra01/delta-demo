@@ -1,2 +1,2 @@
 # delta-demo
-introduction to github
+introduction to github.
